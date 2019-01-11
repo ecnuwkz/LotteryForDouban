@@ -3,4 +3,6 @@
 
 源文件：lottery.py
 
-利用pyinstaller打包成可执行文件：lottery.exe
+其他为利用pyinstaller打包成可执行程序产生
+
+lottery.exe 在dist文件夹中
